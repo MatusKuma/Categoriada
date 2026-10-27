@@ -50,7 +50,7 @@
       "words": ["Palma", "Mušľa", "Vrak lode", "Kokos", "Stopy v piesku", "Starý kompas", "Fľaša so správou", "Maják", "Táborák", "Poklad"]
     },
     {
-      "date": "2026-1015",
+      "date": "2026-10-15",
       "category": "Dôvody, prečo meškať",
       "acceptedAnswers": [
         "dôvody meškania", "prečo niekto mešká", "dôvody prečo meškať",
@@ -194,17 +194,6 @@
     },
     {
       "date": "2026-10-27",
-      "category": "Veci, ktoré by si nechcel počuť od lekára",
-      "acceptedAnswers": [
-        "čo nechceš počuť od lekára", "nepríjemné správy od lekára", "čo povie lekár",
-        "zlé správy od lekára", "nepríjemné výroky lekára", "čo nechce počuť pacient",
-        "obávané slová lekára", "nepríjemné diagnózy", "strašidelné správy od lekára",
-        "čo môže povedať lekár", "neželané správy od doktora"
-      ],
-      "words": ["Musíme to operovať", "Výsledky nie sú dobré", "Potrebujeme ďalšie vyšetrenia", "Bude to bolieť", "Príďte zajtra", "Musíte zmeniť životný štýl", "Liečba bude dlhá", "Je to komplikované", "Musíme počkať na výsledky", "Zavoláme vám"]
-    },
-    {
-      "date": "2026-10-28",
       "category": "Veci, ktoré majú tlačidlo",
       "acceptedAnswers": [
         "predmety s tlačidlom", "čo má tlačidlo", "veci s tlačidlom",
@@ -216,7 +205,7 @@
       "words": ["Výťah", "Televízny ovládač", "Mikrovlnka", "Klávesnica", "Zvonček", "Kalkulačka", "Automat na kávu", "Práčka", "Herný ovládač", "Budík"]
     },
     {
-      "date": "2026-10-29",
+      "date": "2026-10-28",
       "category": "Veci, ktoré sa dajú stratiť",
       "acceptedAnswers": [
         "čo sa dá stratiť", "stratiteľné veci", "veci ktoré sa dajú stratiť",
@@ -228,7 +217,7 @@
       "words": ["Heslo", "Kľúče", "Trpezlivosť", "Mobil", "Peňaženka", "Nádej", "Smer", "Čas", "Dôvera", "Slúchadlá"]
     },
     {
-      "date": "2026-10-30",
+      "date": "2026-10-29",
       "category": "Postavy z animovaných filmov",
       "acceptedAnswers": [
         "animované postavy", "postavy z animovaných filmov", "postavy z animákov",
@@ -239,7 +228,7 @@
       "words": ["Nemo", "Elsa", "Lightning McQueen", "Woody", "Buzz Rakeťák", "Kung Fu Panda", "Remy", "Stitch", "Maui", "Wall-E"]
     },
     {
-      "date": "2026-10-31",
+      "date": "2026-10-30",
       "category": "Veci, ktoré môžu byť falošné",
       "acceptedAnswers": [
         "čo môže byť falošné", "falošné veci", "veci ktoré môžu byť falošné",
