@@ -8,7 +8,8 @@
         "veci ktoré sú žlté", "žlté veci", "čo je žlté", "čo všetko je žlté",
         "žlté predmety", "žlté objekty", "veci žltej farby", "predmety žltej farby",
         "žlté veci okolo nás", "čo má žltú farbu", "žlté potraviny",
-        "žlté rastliny", "žlté zvieratá", "žlté predmety a veci"
+        "žlté rastliny", "žlté zvieratá", "žlté predmety a veci",
+        "žltá", "žltý", "žlté", "žltá vec", "žltý predmet", "žltá farba"
       ],
       "words": ["Banán", "Slnko", "Taxík", "Citrón", "Kukurica", "Slnečnica", "Žltý dáždnik", "Syr", "Kanárik", "Gumová kačička"]
     },
@@ -20,7 +21,8 @@
         "postavy z hraných filmov", "postavy z hollywoodskych filmov", "filmoví hrdinovia",
         "hrdinovia z filmov", "postavy z kino filmov", "známi filmoví hrdinovia",
         "hlavné postavy filmov", "vedľajšie postavy z filmov", "postavy z populárnych filmov",
-        "filmové charaktery", "fiktívne postavy z filmov"
+        "filmové charaktery", "fiktívne postavy z filmov",
+        "filmová postava", "hrdina z filmu", "filmový hrdina", "postava z filmu"
       ],
       "words": ["Shrek", "Darth Vader", "Jack Sparrow", "Forrest Gump", "Indiana Jones", "Katniss Everdeen", "Rocky Balboa", "Willy Wonka", "Neo", "James Bond"]
     },
@@ -32,7 +34,8 @@
         "malé veci", "malé predmety", "drobnosti do vrecka", "veci vo vrecku",
         "predmety ktoré sa zmestia do vrecka", "vreckové predmety",
         "drobné predmety", "malé predmety na nosenie", "veci ktoré môžeš nosiť vo vrecku",
-        "predmety ktoré sa dajú nosiť vo vrecku", "malé osobné veci"
+        "predmety ktoré sa dajú nosiť vo vrecku", "malé osobné veci",
+        "vrecko", "do vrecka", "vreckové veci", "vreckové predmety", "malá vec"
       ],
       "words": ["Minca", "Kľúč", "Žuvačka", "Slúchadlo", "Malý zápisník", "USB kľúč", "Zapaľovač", "Gombík", "Karta", "Kamienok"]
     },
@@ -45,7 +48,8 @@
         "veci na tropickom ostrove", "predmety na ostrove", "čo môže byť na ostrove",
         "čo by si našiel na opustenom ostrove", "ostrovné predmety",
         "prírodné veci na ostrove", "čo sa dá nájsť na ostrove",
-        "veci ktoré nájdeš na opustenom ostrove", "čo môžeš nájsť na opustenom ostrove"
+        "veci ktoré nájdeš na opustenom ostrove", "čo môžeš nájsť na opustenom ostrove",
+        "ostrov", "opustený ostrov", "veci na ostrove", "predmety na ostrove"
       ],
       "words": ["Palma", "Mušľa", "Vrak lode", "Kokos", "Stopy v piesku", "Starý kompas", "Fľaša so správou", "Maják", "Táborák", "Poklad"]
     },
@@ -58,7 +62,8 @@
         "prečo ľudia meškajú", "situácie keď človek mešká", "výhovorky na meškanie",
         "ospravedlnenia za meškanie", "čo spôsobuje meškanie",
         "prečo sa dá prísť neskoro", "príčiny neskorého príchodu",
-        "čo môže spôsobiť meškanie"
+        "čo môže spôsobiť meškanie",
+        "meškanie", "meškať", "prísť neskoro", "neskorý príchod", "dôvod meškania"
       ],
       "words": ["Zaspatie", "Zápcha", "Pokazený autobus", "Stratené kľúče", "Zabudnutý mobil", "Dlhá sprcha", "Zatúlaný pes", "Pokazený budík", "Zablúdenie", "Neskorý vlak"]
     },
@@ -70,7 +75,8 @@
         "predmety ktoré sa dajú rozbiť", "krehké predmety", "rozbitné predmety",
         "veci ktoré sa môžu rozbiť", "čo sa môže rozbiť", "predmety náchylné na rozbitie",
         "krehké veci", "veci ktoré sa ľahko rozbijú", "čo možno rozbiť",
-        "predmety ktoré sa môžu poškodiť rozbitím"
+        "predmety ktoré sa môžu poškodiť rozbitím",
+        "rozbiť", "rozbitné", "krehké", "krehká vec", "rozbitný predmet"
       ],
       "words": ["Váza", "Vajce", "Sklo", "Mobil", "Tanier", "Porcelánová šálka", "Zrkadlo", "Orech", "Piñata", "Srdce"]
     },
@@ -82,7 +88,8 @@
         "čo si zbaliť na dovolenku", "veci na cestovanie", "batožina na dovolenku",
         "potreby na dovolenku", "čo potrebuješ na dovolenke", "dovolenkové potreby",
         "čo si vziať na dovolenku", "výbava na cestu", "veci ktoré si balíš na dovolenku",
-        "predmety na dovolenku", "cestovná výbava"
+        "predmety na dovolenku", "cestovná výbava",
+        "dovolenka", "zbaliť na dovolenku", "baliť sa", "cestovné veci"
       ],
       "words": ["Pas", "Opaľovací krém", "Plavky", "Slnečné okuliare", "Fotoaparát", "Cestovný vankúš", "Plážová osuška", "Kniha", "Šľapky", "Adaptér"]
     },
@@ -95,7 +102,8 @@
         "zlí filmoví hrdinovia", "nepriatelia filmových hrdinov",
         "zlé postavy z filmov", "najznámejší filmoví zloduchovia",
         "filmové záporné postavy", "antagonisti vo filmoch",
-        "zloduchovia z filmov a rozprávok", "zlí filmoví protagonisti"
+        "zloduchovia z filmov a rozprávok", "zlí filmoví protagonisti",
+        "zloduch", "záporák", "antagonista", "filmový zloduch", "zlá postava"
       ],
       "words": ["Joker", "Voldemort", "Thanos", "Darth Vader", "Cruella de Vil", "Loki", "Hannibal Lecter", "Maleficent", "Agent Smith", "Lord Farquaad"]
     },
@@ -107,7 +115,8 @@
         "nepríjemné pachy", "zdroje zápachu", "smradľavé predmety",
         "veci so zápachom", "čo zapácha", "čo nepríjemne vonia",
         "predmety ktoré zapáchajú", "nepríjemne páchnuce veci",
-        "veci ktoré vydávajú zápach", "zdroje nepríjemného zápachu"
+        "veci ktoré vydávajú zápach", "zdroje nepríjemného zápachu",
+        "smrad", "smrdí", "zapácha", "zápach", "páchnuce veci"
       ],
       "words": ["Smeti", "Staré ponožky", "Cesnak", "Pokazené vajce", "Syr s plesňou", "Mokré topánky", "Kanalizácia", "Ryba", "Pot", "Durian"]
     },
@@ -118,7 +127,8 @@
         "čo sa dá hádzať", "predmety na hádzanie", "veci ktoré sa dajú hádzať",
         "predmety ktoré môžeš hádzať", "čo môžeš hodiť", "veci na hádzanie",
         "predmety vhodné na hádzanie", "čo sa dá odhodiť", "hádzané predmety",
-        "veci ktoré možno hádzať", "predmety ktoré sa dajú odhodiť"
+        "veci ktoré možno hádzať", "predmety ktoré sa dajú odhodiť",
+        "hádzať", "hodiť", "na hádzanie", "hádzaný predmet"
       ],
       "words": ["Frisbee", "Kocka", "Snehová guľa", "Lopta", "Papierové lietadlo", "Vankúš", "Kruhový krúžok", "Bumerang", "Šípka", "Kamienok"]
     },
@@ -130,7 +140,8 @@
         "slová ktoré sa začínajú na m", "predmety na m", "názvy na m",
         "slová s prvým písmenom m", "veci začínajúce na m",
         "slová začínajúce písmenom m", "predmety začínajúce na m",
-        "slová od m", "názvy vecí na písmeno m"
+        "slová od m", "názvy vecí na písmeno m",
+        "m", "začína na m", "písmeno m", "slová na písmeno m"
       ],
       "words": ["Most", "Motýľ", "Mikrofón", "Matrac", "Mince", "Miska", "Mraznička", "Mapa", "Medaila", "Mydlo"]
     },
@@ -142,7 +153,8 @@
         "predmety v tajnej miestnosti", "čo by mohlo byť v tajnej miestnosti",
         "obsah tajnej miestnosti", "tajné predmety", "veci ukryté v miestnosti",
         "predmety v skrytej miestnosti", "čo nájdeš v tajnej miestnosti",
-        "tajné úkryty a predmety", "veci v skrytom úkryte"
+        "tajné úkryty a predmety", "veci v skrytom úkryte",
+        "tajná skrýša", "skrytá miestnosť", "tajný úkryt"
       ],
       "words": ["Trezor", "Tajná mapa", "Skrytý vchod", "Starý denník", "Kódovaný list", "Zlatá minca", "Tajný spínač", "Podzemný tunel", "Zamknutá truhlica", "Neznámy artefakt"]
     },
@@ -154,7 +166,8 @@
         "postavy z filmov harry potter", "postavy z kníh harry potter",
         "čarodejníci z harryho pottera", "hrdinovia harryho pottera",
         "postavy z bradavíc", "postavy z kúzelníckeho sveta",
-        "postavy zo sveta harryho pottera", "známe postavy harryho pottera"
+        "postavy zo sveta harryho pottera", "známe postavy harryho pottera",
+        "Harry Potter", "postava z Pottera", "čarodejník", "postava z Rokfortu"
       ],
       "words": ["Harry Potter", "Hermiona Grangerová", "Ron Weasley", "Albus Dumbledore", "Severus Snape", "Rubeus Hagrid", "Draco Malfoy", "Lord Voldemort", "Luna Lovegoodová", "Sirius Black"]
     },
@@ -165,7 +178,8 @@
         "čo sa dá zbierať", "zbierateľské predmety", "veci ktoré sa dajú zbierať",
         "predmety do zbierky", "zberateľské veci", "čo ľudia zbierajú",
         "veci vhodné na zbieranie", "predmety ktoré sa zbierajú",
-        "zbierky predmetov", "čo sa dá zhromažďovať", "zberateľské predmety"
+        "zbierky predmetov", "čo sa dá zhromažďovať", "zberateľské predmety",
+        "zbierať", "zbierka", "zberateľské veci", "zbierateľný predmet"
       ],
       "words": ["Známky", "Mince", "Kartičky", "Komiksy", "Kamene", "Magnetky", "Figúrky", "Vinylové platne", "Staré knihy", "Modely áut"]
     },
@@ -177,7 +191,8 @@
         "predmety v strašidelnom dome", "čo sa nachádza v strašidelnom dome",
         "strašidelné predmety", "vybavenie strašidelného domu",
         "čo môže byť v strašidelnom dome", "veci zo strašidelného domu",
-        "predmety zo strašidelného domu", "strašidelné miesta a predmety"
+        "predmety zo strašidelného domu", "strašidelné miesta a predmety",
+        "strašidelný dom", "strašidelné veci", "dom duchov", "strašidelný"
       ],
       "words": ["Pavučina", "Strašidelný portrét", "Vŕzgajúce schody", "Starý svietnik", "Rozbitá bábika", "Tajná pivnica", "Zatvorená truhlica", "Duch", "Staré hodiny", "Zamknuté dvere"]
     },
@@ -188,7 +203,8 @@
         "jedlo bez príboru", "čo sa dá jesť bez príboru", "jedlá do ruky",
         "jedlo ktoré sa je rukami", "potraviny bez príboru", "jedlá ktoré netreba krájať",
         "čo môžeš jesť rukami", "jedlo na cestu", "rýchle jedlá do ruky",
-        "jedlá vhodné do ruky", "potraviny ktoré sa dajú jesť bez vidličky"
+        "jedlá vhodné do ruky", "potraviny ktoré sa dajú jesť bez vidličky",
+        "jedlo do ruky", "jesť rukami", "finger food", "jedlo bez vidličky"
       ],
       "words": ["Pizza", "Jablko", "Sendvič", "Hamburger", "Banán", "Hotdog", "Taco", "Croissant", "Palacinka", "Sušienka"]
     },
@@ -200,7 +216,9 @@
         "zariadenia s tlačidlami", "predmety ktoré majú tlačidlo",
         "čo sa ovláda tlačidlom", "elektronika s tlačidlami",
         "veci s ovládacími tlačidlami", "zariadenia s ovládaním",
-        "predmety s ovládacími prvkami"
+        "predmety s ovládacími prvkami",
+        "tlačidlo", "tlačidlá", "gombík", "gombíky",
+        "ovládacie tlačidlo", "ovládacie prvky", "tlačidlové zariadenia"
       ],
       "words": ["Výťah", "Televízny ovládač", "Mikrovlnka", "Klávesnica", "Zvonček", "Kalkulačka", "Automat na kávu", "Práčka", "Herný ovládač", "Budík"]
     },
@@ -212,7 +230,8 @@
         "čo môžeš stratiť", "predmety ktoré sa strácajú", "stratené veci",
         "čo sa dá niekde zabudnúť", "veci ktoré môžeš stratiť",
         "predmety ktoré sa dajú stratiť", "hmotné aj nehmotné straty",
-        "čo človek môže stratiť"
+        "čo človek môže stratiť",
+        "stratiť", "stratené veci", "stratím", "strata"
       ],
       "words": ["Heslo", "Kľúče", "Trpezlivosť", "Mobil", "Peňaženka", "Nádej", "Smer", "Čas", "Dôvera", "Slúchadlá"]
     },
@@ -223,7 +242,8 @@
         "animované postavy", "postavy z animovaných filmov", "postavy z animákov",
         "postavy z kreslených filmov", "kreslené postavy", "hrdinovia animovaných filmov",
         "postavy z počítačovo animovaných filmov", "známe animované postavy",
-        "postavy z animovaných rozprávok", "postavy z kreslených rozprávok"
+        "postavy z animovaných rozprávok", "postavy z kreslených rozprávok",
+        "animovaná postava", "animák", "kreslená postava", "hrdina z animovaného filmu"
       ],
       "words": ["Nemo", "Elsa", "Lightning McQueen", "Woody", "Buzz Rakeťák", "Kung Fu Panda", "Remy", "Stitch", "Maui", "Wall-E"]
     },
@@ -235,7 +255,8 @@
         "predmety ktoré môžu byť falošné", "čo sa dá sfalšovať",
         "čo môže byť podvod", "falošné predmety a tvrdenia",
         "čo nemusí byť pravé", "napodobeniny", "nepravé veci",
-        "čo môže byť predstierané", "čo sa môže vydávať za pravé"
+        "čo môže byť predstierané", "čo sa môže vydávať za pravé",
+        "falošné", "fejk", "fejky", "napodobenina", "nepravé", "sfalšované"
       ],
       "words": ["Úsmev", "Správa", "Podpis", "Bankovka", "Profil", "Doklad", "Spravodajstvo", "Sľub", "Diamant", "Ospravedlnenie"]
     }
