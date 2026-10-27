@@ -1,0 +1,659 @@
+{
+  "days": [
+    {
+      "date": "2026-10-01",
+      "category": "Druhy ovocia",
+      "acceptedAnswers": [
+        "druhy ovocia",
+        "ovocie",
+        "ovocia"
+      ],
+      "words": [
+        "Jablko",
+        "Hruška",
+        "Broskyňa",
+        "Slivka",
+        "Marhuľa",
+        "Čerešňa",
+        "Mango",
+        "Ananás",
+        "Kiwi",
+        "Pomaranč"
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "category": "Štáty Európy",
+      "acceptedAnswers": [
+        "štáty európy",
+        "európske štáty",
+        "európske krajiny",
+        "krajiny európy"
+      ],
+      "words": [
+        "Slovensko",
+        "Rakúsko",
+        "Poľsko",
+        "Maďarsko",
+        "Česko",
+        "Nemecko",
+        "Taliansko",
+        "Španielsko",
+        "Portugalsko",
+        "Grécko"
+      ]
+    },
+    {
+      "date": "2026-10-03",
+      "category": "Futbalové kluby",
+      "acceptedAnswers": [
+        "futbalové kluby",
+        "futbalove timy",
+        "futbalové tímy",
+        "futbalové mužstvá"
+      ],
+      "words": [
+        "Real Madrid",
+        "FC Barcelona",
+        "Liverpool",
+        "Arsenal",
+        "Bayern Mníchov",
+        "Juventus",
+        "AC Milan",
+        "Manchester City",
+        "PSG",
+        "Inter Miláno"
+      ]
+    },
+    {
+      "date": "2026-10-04",
+      "category": "Objekty Slnečnej sústavy",
+      "acceptedAnswers": [
+        "objekty slnečnej sústavy",
+        "telesá slnečnej sústavy",
+        "planéty a trpasličie planéty"
+      ],
+      "words": [
+        "Merkúr",
+        "Venuša",
+        "Zem",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Urán",
+        "Neptún",
+        "Pluto",
+        "Ceres"
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "category": "Spoločenské hry",
+      "acceptedAnswers": [
+        "spoločenské hry",
+        "stolové hry",
+        "doskové hry"
+      ],
+      "words": [
+        "Človeče, nehnevaj sa",
+        "Monopoly",
+        "Scrabble",
+        "Šach",
+        "Dáma",
+        "Osadníci z Katanu",
+        "Activity",
+        "Dixit",
+        "Carcassonne",
+        "Ticket to Ride"
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "category": "Časti ľudského tela",
+      "acceptedAnswers": [
+        "časti ľudského tela",
+        "orgány a časti tela",
+        "ľudské telo"
+      ],
+      "words": [
+        "Srdce",
+        "Pľúca",
+        "Pečeň",
+        "Obličky",
+        "Žalúdok",
+        "Mozog",
+        "Koža",
+        "Kosti",
+        "Svaly",
+        "Črevá"
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "category": "Automobilové značky",
+      "acceptedAnswers": [
+        "automobilové značky",
+        "značky áut",
+        "výrobcovia automobilov",
+        "automobilky"
+      ],
+      "words": [
+        "Škoda",
+        "Toyota",
+        "BMW",
+        "Audi",
+        "Ford",
+        "Hyundai",
+        "Kia",
+        "Volvo",
+        "Honda",
+        "Peugeot"
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "category": "Hudobní interpreti",
+      "acceptedAnswers": [
+        "hudobní interpreti",
+        "speváci a speváčky",
+        "hudobné hviezdy",
+        "hudobní umelci"
+      ],
+      "words": [
+        "Taylor Swift",
+        "Ed Sheeran",
+        "Dua Lipa",
+        "The Weeknd",
+        "Rihanna",
+        "Bruno Mars",
+        "Adele",
+        "Eminem",
+        "Shakira",
+        "Harry Styles"
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "category": "Rieky",
+      "acceptedAnswers": [
+        "rieky",
+        "svetové rieky"
+      ],
+      "words": [
+        "Dunaj",
+        "Amazonka",
+        "Níl",
+        "Mississippi",
+        "Volga",
+        "Rýn",
+        "Labe",
+        "Ganga",
+        "Yang-c’-ťiang",
+        "Mekong"
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "category": "Športy s loptou",
+      "acceptedAnswers": [
+        "športy s loptou",
+        "loptové športy",
+        "športy hrané s loptou"
+      ],
+      "words": [
+        "Futbal",
+        "Basketbal",
+        "Volejbal",
+        "Tenis",
+        "Ragby",
+        "Golf",
+        "Vodné pólo",
+        "Hádzaná",
+        "Baseball",
+        "Softbal"
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "category": "Filmové série",
+      "acceptedAnswers": [
+        "filmové série",
+        "filmové franšízy",
+        "filmové ságy"
+      ],
+      "words": [
+        "Harry Potter",
+        "Star Wars",
+        "Pán prsteňov",
+        "Rýchlo a zbesilo",
+        "Mission: Impossible",
+        "Toy Story",
+        "Jurassic Park",
+        "Rocky",
+        "Shrek",
+        "Avengers"
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "category": "Kuchynské pomôcky",
+      "acceptedAnswers": [
+        "kuchynské pomôcky",
+        "kuchynské náčinie",
+        "pomôcky do kuchyne"
+      ],
+      "words": [
+        "Metlička",
+        "Strúhadlo",
+        "Škrabka",
+        "Naberačka",
+        "Cedidlo",
+        "Doska na krájanie",
+        "Lis na cesnak",
+        "Otvárač",
+        "Valček",
+        "Kuchynské kliešte"
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "category": "Hlavné mestá",
+      "acceptedAnswers": [
+        "hlavné mestá",
+        "hlavné mestá štátov",
+        "svetové hlavné mestá"
+      ],
+      "words": [
+        "Bratislava",
+        "Praha",
+        "Viedeň",
+        "Budapešť",
+        "Varšava",
+        "Berlín",
+        "Paríž",
+        "Rím",
+        "Lisabon",
+        "Atény"
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "category": "Zvieratá žijúce v Afrike",
+      "acceptedAnswers": [
+        "zvieratá žijúce v afrike",
+        "africké zvieratá",
+        "zvieratá afriky"
+      ],
+      "words": [
+        "Lev",
+        "Slon",
+        "Žirafa",
+        "Zebra",
+        "Hroch",
+        "Gepard",
+        "Hyena",
+        "Pštros",
+        "Nosorožec",
+        "Surikata"
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "category": "Kartové hry",
+      "acceptedAnswers": [
+        "kartové hry",
+        "hry s kartami"
+      ],
+      "words": [
+        "Poker",
+        "Blackjack",
+        "Prší",
+        "Žolík",
+        "Mariáš",
+        "Canasta",
+        "Bridge",
+        "Pasians",
+        "Baccarat",
+        "Uno"
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "category": "Dezerty",
+      "acceptedAnswers": [
+        "dezerty",
+        "sladké dezerty",
+        "zákusky a dezerty"
+      ],
+      "words": [
+        "Tiramisu",
+        "Cheesecake",
+        "Palacinky",
+        "Štrúdľa",
+        "Zmrzlina",
+        "Brownies",
+        "Panna cotta",
+        "Veterník",
+        "Makrónky",
+        "Crème brûlée"
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "category": "Hudobné nástroje",
+      "acceptedAnswers": [
+        "hudobné nástroje",
+        "nástroje na hranie hudby"
+      ],
+      "words": [
+        "Gitara",
+        "Klavír",
+        "Husle",
+        "Bicie",
+        "Flauta",
+        "Trúbka",
+        "Saxofón",
+        "Harmonika",
+        "Harfa",
+        "Kontrabas"
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "category": "Technologické firmy",
+      "acceptedAnswers": [
+        "technologické firmy",
+        "technologické spoločnosti",
+        "firmy z oblasti technológií",
+        "technologické značky"
+      ],
+      "words": [
+        "Apple",
+        "Microsoft",
+        "Google",
+        "Samsung",
+        "Sony",
+        "Nvidia",
+        "Intel",
+        "Meta",
+        "Adobe",
+        "Amazon"
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "category": "Dopravné prostriedky",
+      "acceptedAnswers": [
+        "dopravné prostriedky",
+        "prostriedky dopravy",
+        "spôsoby dopravy"
+      ],
+      "words": [
+        "Auto",
+        "Autobus",
+        "Vlak",
+        "Električka",
+        "Bicykel",
+        "Motorka",
+        "Loď",
+        "Lietadlo",
+        "Metro",
+        "Traktor"
+      ]
+    },
+    {
+      "date": "2026-10-20",
+      "category": "Krajiny s prístupom k moru",
+      "acceptedAnswers": [
+        "krajiny s prístupom k moru",
+        "prímorské krajiny",
+        "krajiny pri mori",
+        "štáty s prístupom k moru"
+      ],
+      "words": [
+        "Chorvátsko",
+        "Taliansko",
+        "Grécko",
+        "Španielsko",
+        "Francúzsko",
+        "Nórsko",
+        "Japonsko",
+        "Austrália",
+        "Brazília",
+        "Turecko"
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "category": "Značky športového oblečenia",
+      "acceptedAnswers": [
+        "značky športového oblečenia",
+        "športové značky oblečenia",
+        "značky športovej módy"
+      ],
+      "words": [
+        "Nike",
+        "Adidas",
+        "Puma",
+        "Reebok",
+        "Under Armour",
+        "New Balance",
+        "Asics",
+        "Fila",
+        "Converse",
+        "Skechers"
+      ]
+    },
+    {
+      "date": "2026-10-22",
+      "category": "Profesia",
+      "acceptedAnswers": [
+        "profesie",
+        "povolania",
+        "zamestnania"
+      ],
+      "words": [
+        "Lekár",
+        "Učiteľ",
+        "Hasič",
+        "Policajt",
+        "Kuchár",
+        "Mechanik",
+        "Architekt",
+        "Pilot",
+        "Zubár",
+        "Veterinár"
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "category": "Veci v kúpeľni",
+      "acceptedAnswers": [
+        "veci v kúpeľni",
+        "predmety v kúpeľni",
+        "kúpeľňové potreby"
+      ],
+      "words": [
+        "Zubná kefka",
+        "Šampón",
+        "Uterák",
+        "Mydlo",
+        "Zubná pasta",
+        "Fén",
+        "Hrebeň",
+        "Sprchový gél",
+        "Holiaci strojček",
+        "Toaletný papier"
+      ]
+    },
+    {
+      "date": "2026-10-24",
+      "category": "Slovenské mestá",
+      "acceptedAnswers": [
+        "slovenské mestá",
+        "mestá na slovensku",
+        "mestá slovenska"
+      ],
+      "words": [
+        "Bratislava",
+        "Košice",
+        "Prešov",
+        "Žilina",
+        "Nitra",
+        "Trnava",
+        "Trenčín",
+        "Banská Bystrica",
+        "Poprad",
+        "Martin"
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "category": "Veci, ktoré nájdeš v škole",
+      "acceptedAnswers": [
+        "veci ktoré nájdeš v škole",
+        "veci v škole",
+        "školské potreby a vybavenie"
+      ],
+      "words": [
+        "Zošit",
+        "Ceruzka",
+        "Pravítko",
+        "Tabuľa",
+        "Učebnica",
+        "Guma",
+        "Školská taška",
+        "Krieda",
+        "Kalkulačka",
+        "Rozvrh hodín"
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "category": "Značky mobilných telefónov",
+      "acceptedAnswers": [
+        "značky mobilných telefónov",
+        "značky telefónov",
+        "výrobcovia mobilov"
+      ],
+      "words": [
+        "Apple",
+        "Samsung",
+        "Xiaomi",
+        "Huawei",
+        "Motorola",
+        "Nokia",
+        "Google Pixel",
+        "OnePlus",
+        "Oppo",
+        "Honor"
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "category": "Veci spojené s cestovaním",
+      "acceptedAnswers": [
+        "veci spojené s cestovaním",
+        "predmety na cestovanie",
+        "cestovné potreby"
+      ],
+      "words": [
+        "Pas",
+        "Kufor",
+        "Letenka",
+        "Mapa",
+        "Kompas",
+        "Cestovný vankúš",
+        "Batožina",
+        "Hotelová rezervácia",
+        "Cestovný adaptér",
+        "Palubný lístok"
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "category": "Známe rozprávkové postavy",
+      "acceptedAnswers": [
+        "známe rozprávkové postavy",
+        "rozprávkové postavy",
+        "postavy z rozprávok"
+      ],
+      "words": [
+        "Popoluška",
+        "Snehulienka",
+        "Shrek",
+        "Pinocchio",
+        "Ariel",
+        "Aladin",
+        "Simba",
+        "Elsa",
+        "Peter Pan",
+        "Kocúr v čižmách"
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "category": "Veci v chladničke",
+      "acceptedAnswers": [
+        "veci v chladničke",
+        "potraviny v chladničke",
+        "obsah chladničky"
+      ],
+      "words": [
+        "Mlieko",
+        "Maslo",
+        "Syr",
+        "Vajcia",
+        "Jogurt",
+        "Kečup",
+        "Zelenina",
+        "Ovocie",
+        "Džús",
+        "Zvyšky večere"
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "category": "Halloweenske motívy",
+      "acceptedAnswers": [
+        "halloweenske motívy",
+        "motívy halloweenu",
+        "symboly halloweenu",
+        "halloween"
+      ],
+      "words": [
+        "Tekvica",
+        "Netopier",
+        "Duch",
+        "Čarodejnica",
+        "Kostlivec",
+        "Pavučina",
+        "Čierna mačka",
+        "Upír",
+        "Múmia",
+        "Strašidelný dom"
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "category": "Veci spojené s ohňom",
+      "acceptedAnswers": [
+        "veci spojené s ohňom",
+        "predmety a javy spojené s ohňom",
+        "oheň a jeho súčasti"
+      ],
+      "words": [
+        "Zápalka",
+        "Zapaľovač",
+        "Sviečka",
+        "Krb",
+        "Oheň",
+        "Uhlík",
+        "Táborák",
+        "Hasiaci prístroj",
+        "Dym",
+        "Ohnisko"
+      ]
+    }
+  ]
+}
