@@ -2,7 +2,7 @@
 {
   "days": [
     {
-      "date": "2026-10-27",
+      "date": "2026-10-11",
       "category": "Veci, ktoré sú žlté",
       "acceptedAnswers": [
         "veci ktoré sú žlté", "žlté veci", "čo je žlté", "čo všetko je žlté",
@@ -13,7 +13,7 @@
       "words": ["Banán", "Slnko", "Taxík", "Citrón", "Kukurica", "Slnečnica", "Žltý dáždnik", "Syr", "Kanárik", "Gumová kačička"]
     },
     {
-      "date": "2026-10-28",
+      "date": "2026-10-12",
       "category": "Postavy z filmov",
       "acceptedAnswers": [
         "postavy z filmov", "filmové postavy", "postavy z filmu", "známe filmové postavy",
@@ -25,7 +25,7 @@
       "words": ["Shrek", "Darth Vader", "Jack Sparrow", "Forrest Gump", "Indiana Jones", "Katniss Everdeen", "Rocky Balboa", "Willy Wonka", "Neo", "James Bond"]
     },
     {
-      "date": "2026-10-29",
+      "date": "2026-10-13",
       "category": "Veci, ktoré sa zmestia do vrecka",
       "acceptedAnswers": [
         "veci do vrecka", "predmety do vrecka", "čo sa zmestí do vrecka",
@@ -37,7 +37,7 @@
       "words": ["Minca", "Kľúč", "Žuvačka", "Slúchadlo", "Malý zápisník", "USB kľúč", "Zapaľovač", "Gombík", "Karta", "Kamienok"]
     },
     {
-      "date": "2026-10-30",
+      "date": "2026-10-14",
       "category": "Veci, ktoré nájdeš na opustenom ostrove",
       "acceptedAnswers": [
         "opustený ostrov", "veci na opustenom ostrove", "čo nájdeš na opustenom ostrove",
@@ -50,7 +50,7 @@
       "words": ["Palma", "Mušľa", "Vrak lode", "Kokos", "Stopy v piesku", "Starý kompas", "Fľaša so správou", "Maják", "Táborák", "Poklad"]
     },
     {
-      "date": "2026-10-31",
+      "date": "2026-1015",
       "category": "Dôvody, prečo meškať",
       "acceptedAnswers": [
         "dôvody meškania", "prečo niekto mešká", "dôvody prečo meškať",
@@ -63,7 +63,7 @@
       "words": ["Zaspatie", "Zápcha", "Pokazený autobus", "Stratené kľúče", "Zabudnutý mobil", "Dlhá sprcha", "Zatúlaný pes", "Pokazený budík", "Zablúdenie", "Neskorý vlak"]
     },
     {
-      "date": "2026-11-01",
+      "date": "2026-10-16",
       "category": "Veci, ktoré sa dajú rozbiť",
       "acceptedAnswers": [
         "čo sa dá rozbiť", "rozbitné veci", "veci ktoré sa dajú rozbiť",
@@ -75,7 +75,7 @@
       "words": ["Váza", "Vajce", "Sklo", "Mobil", "Tanier", "Porcelánová šálka", "Zrkadlo", "Orech", "Piñata", "Srdce"]
     },
     {
-      "date": "2026-11-02",
+      "date": "2026-10-17",
       "category": "Veci, ktoré si berieš na dovolenku",
       "acceptedAnswers": [
         "veci na dovolenku", "čo si berieš na dovolenku", "dovolenková výbava",
@@ -87,7 +87,7 @@
       "words": ["Pas", "Opaľovací krém", "Plavky", "Slnečné okuliare", "Fotoaparát", "Cestovný vankúš", "Plážová osuška", "Kniha", "Šľapky", "Adaptér"]
     },
     {
-      "date": "2026-11-03",
+      "date": "2026-10-18",
       "category": "Filmoví záporáci",
       "acceptedAnswers": [
         "filmoví záporáci", "zloduchovia z filmov", "filmoví zloduchovia",
@@ -100,7 +100,7 @@
       "words": ["Joker", "Voldemort", "Thanos", "Darth Vader", "Cruella de Vil", "Loki", "Hannibal Lecter", "Maleficent", "Agent Smith", "Lord Farquaad"]
     },
     {
-      "date": "2026-11-04",
+      "date": "2026-10-19",
       "category": "Veci, ktoré smrdia",
       "acceptedAnswers": [
         "čo smrdí", "smradľavé veci", "veci ktoré smrdia",
@@ -112,7 +112,7 @@
       "words": ["Smeti", "Staré ponožky", "Cesnak", "Pokazené vajce", "Syr s plesňou", "Mokré topánky", "Kanalizácia", "Ryba", "Pot", "Durian"]
     },
     {
-      "date": "2026-11-05",
+      "date": "2026-10-20",
       "category": "Veci, ktoré sa dajú hádzať",
       "acceptedAnswers": [
         "čo sa dá hádzať", "predmety na hádzanie", "veci ktoré sa dajú hádzať",
@@ -123,7 +123,7 @@
       "words": ["Frisbee", "Kocka", "Snehová guľa", "Lopta", "Papierové lietadlo", "Vankúš", "Kruhový krúžok", "Bumerang", "Šípka", "Kamienok"]
     },
     {
-      "date": "2026-11-06",
+      "date": "2026-10-21",
       "category": "Veci, ktoré sa začínajú na písmeno M",
       "acceptedAnswers": [
         "slová na m", "veci na m", "slová začínajúce na m",
@@ -135,7 +135,7 @@
       "words": ["Most", "Motýľ", "Mikrofón", "Matrac", "Mince", "Miska", "Mraznička", "Mapa", "Medaila", "Mydlo"]
     },
     {
-      "date": "2026-11-07",
+      "date": "2026-10-22",
       "category": "Veci, ktoré by mohli byť v tajnej miestnosti",
       "acceptedAnswers": [
         "tajná miestnosť", "veci v tajnej miestnosti", "čo je v tajnej miestnosti",
@@ -147,7 +147,7 @@
       "words": ["Trezor", "Tajná mapa", "Skrytý vchod", "Starý denník", "Kódovaný list", "Zlatá minca", "Tajný spínač", "Podzemný tunel", "Zamknutá truhlica", "Neznámy artefakt"]
     },
     {
-      "date": "2026-11-08",
+      "date": "2026-10-23",
       "category": "Postavy z Harryho Pottera",
       "acceptedAnswers": [
         "postavy z harryho pottera", "postavy z čarodejníckeho sveta", "postavy z pottera",
@@ -159,7 +159,7 @@
       "words": ["Harry Potter", "Hermiona Grangerová", "Ron Weasley", "Albus Dumbledore", "Severus Snape", "Rubeus Hagrid", "Draco Malfoy", "Lord Voldemort", "Luna Lovegoodová", "Sirius Black"]
     },
     {
-      "date": "2026-11-09",
+      "date": "2026-10-24",
       "category": "Veci, ktoré sa dajú zbierať",
       "acceptedAnswers": [
         "čo sa dá zbierať", "zbierateľské predmety", "veci ktoré sa dajú zbierať",
@@ -170,7 +170,7 @@
       "words": ["Známky", "Mince", "Kartičky", "Komiksy", "Kamene", "Magnetky", "Figúrky", "Vinylové platne", "Staré knihy", "Modely áut"]
     },
     {
-      "date": "2026-11-10",
+      "date": "2026-10-25",
       "category": "Veci, ktoré nájdeš v strašidelnom dome",
       "acceptedAnswers": [
         "strašidelný dom", "veci v strašidelnom dome", "čo nájdeš v strašidelnom dome",
@@ -182,7 +182,7 @@
       "words": ["Pavučina", "Strašidelný portrét", "Vŕzgajúce schody", "Starý svietnik", "Rozbitá bábika", "Tajná pivnica", "Zatvorená truhlica", "Duch", "Staré hodiny", "Zamknuté dvere"]
     },
     {
-      "date": "2026-11-11",
+      "date": "2026-10-26",
       "category": "Veci, ktoré sa dajú jesť bez príboru",
       "acceptedAnswers": [
         "jedlo bez príboru", "čo sa dá jesť bez príboru", "jedlá do ruky",
@@ -193,7 +193,7 @@
       "words": ["Pizza", "Jablko", "Sendvič", "Hamburger", "Banán", "Hotdog", "Taco", "Croissant", "Palacinka", "Sušienka"]
     },
     {
-      "date": "2026-11-12",
+      "date": "2026-10-27",
       "category": "Veci, ktoré by si nechcel počuť od lekára",
       "acceptedAnswers": [
         "čo nechceš počuť od lekára", "nepríjemné správy od lekára", "čo povie lekár",
@@ -204,7 +204,7 @@
       "words": ["Musíme to operovať", "Výsledky nie sú dobré", "Potrebujeme ďalšie vyšetrenia", "Bude to bolieť", "Príďte zajtra", "Musíte zmeniť životný štýl", "Liečba bude dlhá", "Je to komplikované", "Musíme počkať na výsledky", "Zavoláme vám"]
     },
     {
-      "date": "2026-11-13",
+      "date": "2026-10-28",
       "category": "Veci, ktoré majú tlačidlo",
       "acceptedAnswers": [
         "predmety s tlačidlom", "čo má tlačidlo", "veci s tlačidlom",
@@ -216,7 +216,7 @@
       "words": ["Výťah", "Televízny ovládač", "Mikrovlnka", "Klávesnica", "Zvonček", "Kalkulačka", "Automat na kávu", "Práčka", "Herný ovládač", "Budík"]
     },
     {
-      "date": "2026-11-14",
+      "date": "2026-10-29",
       "category": "Veci, ktoré sa dajú stratiť",
       "acceptedAnswers": [
         "čo sa dá stratiť", "stratiteľné veci", "veci ktoré sa dajú stratiť",
@@ -228,7 +228,7 @@
       "words": ["Heslo", "Kľúče", "Trpezlivosť", "Mobil", "Peňaženka", "Nádej", "Smer", "Čas", "Dôvera", "Slúchadlá"]
     },
     {
-      "date": "2026-11-15",
+      "date": "2026-10-30",
       "category": "Postavy z animovaných filmov",
       "acceptedAnswers": [
         "animované postavy", "postavy z animovaných filmov", "postavy z animákov",
@@ -239,7 +239,7 @@
       "words": ["Nemo", "Elsa", "Lightning McQueen", "Woody", "Buzz Rakeťák", "Kung Fu Panda", "Remy", "Stitch", "Maui", "Wall-E"]
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-10-31",
       "category": "Veci, ktoré môžu byť falošné",
       "acceptedAnswers": [
         "čo môže byť falošné", "falošné veci", "veci ktoré môžu byť falošné",
