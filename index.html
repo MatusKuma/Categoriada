@@ -190,7 +190,9 @@ function submitGuess(event) {
   if(!guess){$("guessInput").focus();return;}
   result.attempts++;result.guesses.push(guess);
   const normalized=normalize(guess);
+  console.log(normalized);
   const accepted=[currentDay.category,...currentDay.acceptedAnswers].map(normalize);
+  concole.log(accepted);
   if(accepted.includes(normalized)){
     result.status="solved";result.completedAt=new Date().toISOString();
   } else if(result.revealed>=10){
