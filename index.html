@@ -166,25 +166,68 @@ function getResult(date) {
 }
 function isFuture(date) { return date > currentDate; }
 function renderCalendar() {
-  const grid = $("calendarGrid"); grid.replaceChildren();
-  WEEKDAYS.forEach(name => { const el=document.createElement("div"); el.className="weekday"; el.textContent=name; grid.append(el); });
-  const first = new Date(Date.UTC(2026,9,1));
-  const offset = (first.getUTCDay()+6)%7;
-  for(let i=0;i<offset;i++){const blank=document.createElement("div");grid.append(blank);}
-  for(let d=1;d<=31;d++){
-    const date=`2026-10-${String(d).padStart(2,"0")}`;
-    const btn=document.createElement("button"); btn.type="button"; btn.className="day"; btn.textContent=String(d);
-    btn.setAttribute("aria-label",`${d}. október 2026`);
-    if(date===currentDate)btn.classList.add("today");
-    if(date===state.selectedDate)btn.classList.add("selected");
-    if(isFuture(date)){btn.disabled=true;btn.title="Táto výzva ešte nie je dostupná";}
-    else {
-      const result=state.results[date];
-      if(result?.status==="solved")btn.classList.add("solved");
-      else if(["failed","gaveup"].includes(result?.status))btn.classList.add("failed");
-      else if(result?.status==="playing" && result.attempts>0)btn.classList.add("playing");
-      btn.addEventListener("click",()=>selectDate(date));
+  const grid = $("calendarGrid");
+  grid.replaceChildren();
+
+  WEEKDAYS.forEach(name => {
+    const el = document.createElement("div");
+    el.className = "weekday";
+    el.textContent = name;
+    grid.append(el);
+  });
+
+  const first = new Date(Date.UTC(2026, 9, 1));
+  const offset = (first.getUTCDay() + 6) % 7;
+
+  for (let i = 0; i < offset; i++) {
+    grid.append(document.createElement("div"));
+  }
+
+  // Dátumy, ktoré skutočne existujú v catalog.json
+  const availableDates = new Set(catalog.map(item => item.date));
+
+  for (let d = 1; d <= 31; d++) {
+    const date = `2026-10-${String(d).padStart(2, "0")}`;
+
+    const btn = document.createElement("button");
+    btn.type = "button";
+    btn.className = "day";
+    btn.textContent = String(d);
+    btn.setAttribute("aria-label", `${d}. október 2026`);
+
+    if (date === currentDate) {
+      btn.classList.add("today");
     }
+
+    if (date === state.selectedDate) {
+      btn.classList.add("selected");
+    }
+
+    // Dátum musí byť v katalógu a nesmie byť v budúcnosti
+    if (!availableDates.has(date)) {
+      btn.disabled = true;
+      btn.classList.add("unavailable");
+      btn.title = "Pre tento deň nie je dostupná výzva";
+    } else if (isFuture(date)) {
+      btn.disabled = true;
+      btn.title = "Táto výzva ešte nie je dostupná";
+    } else {
+      const result = state.results[date];
+
+      if (result?.status === "solved") {
+        btn.classList.add("solved");
+      } else if (["failed", "gaveup"].includes(result?.status)) {
+        btn.classList.add("failed");
+      } else if (
+        result?.status === "playing" &&
+        result.attempts > 0
+      ) {
+        btn.classList.add("playing");
+      }
+
+      btn.addEventListener("click", () => selectDate(date));
+    }
+
     grid.append(btn);
   }
 }
